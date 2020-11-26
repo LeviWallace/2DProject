@@ -15,8 +15,8 @@ TagManager:
   - 
   - Background
   - Light
-  - Player + TileMap
-  - 
+  - Player
+  - TileMap
   - 
   - 
   - 
